@@ -1,2 +1,2 @@
 # cpp_project
-airplane
+My first ever coding project. A basic airplane ticket booking system.
